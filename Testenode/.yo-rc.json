@@ -1,0 +1,9 @@
+{
+  "generator-nodejs-lib": {
+    "projectName": "Testenode",
+    "projectDescription": "testenode",
+    "authorName": "Eryck Alves",
+    "authorEmail": "eryckalves@hotmail.com",
+    "githubUsername": "eryckalves"
+  }
+}
